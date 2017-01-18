@@ -10,3 +10,6 @@ This is the set of codes to run CRTM for WRF output.
 4. In $CRTM_DIR/crtm_wrf directory, type "./compile". It compiles the fortran codes and makes crtm.exe.
 5. link coefficient files from $CRTM_DIR/fix/SpcCoeff/Big_Endian and $CRTM_DIR/fix/TauCoeff/Big_Endian to $CRTM_DIR/crtm_wrf/coefficients directory.
 6. run crtm.exe
+
+tips
+- use Convert_wrf_crtm_nocloud.inc instead of Convert_wrf_crtm.inc if you want to exclude cloud-emission and cloud-scatterting calculation. 
