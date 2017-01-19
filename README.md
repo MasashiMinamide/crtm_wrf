@@ -2,7 +2,7 @@ This is the set of codes to run CRTM for WRF output.
    written by Masashi Minamide, based on the sample test codes of released CRTM.
 
 ### How to use ###
-0. download CRTM.
+0. download and install the released CRTM.
 1. copy this ("crtm_wrf") directory in your CRTM directory.
 2. set CRTM_DIR to your CRTM directory such as typing "export CRTM_DIR=/your_path_to_CRTM"
 3. modify main_crtm.f90 code. 
