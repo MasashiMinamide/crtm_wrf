@@ -1,5 +1,5 @@
 # Fortran code package for CRTM and WRF
-This is a code package to calculate simulated radiances of the Advanced Weather Research and Forecasting model (WRF-ARW) output by the Community Radiative Transfer Model (CRTM).
+This is a code package to calculate simulated radiances of the Advanced Weather Research and Forecasting model (WRF-ARW) output, using the Community Radiative Transfer Model (CRTM).
 
 ### How to use
 0. Download and install the released CRTM.
